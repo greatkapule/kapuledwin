@@ -1,104 +1,103 @@
-<div align="center">
-  <h1> Hi there, I'm <span style="color:#4F46E5;">Edwin Kapule</span></h1>
-  <h3> Full-Stack Software Developer (in progress) | ALX Back-End Developer Learner</h3>
-  <p> Passionate about building scalable systems, solving problems, and creating meaningful impact through technology.</p>
-</div>
+# Hi, I'm Edwin Kapule
+
+### Backend Developer | Python • Django • REST APIs • Databases
+
+I’m a Backend Developer trained through the ALX Software Engineering program, passionate about building scalable systems, clean APIs, and reliable backend architectures that solve real-world problems.
+
+After transitioning from a Sales Executive role into software engineering, I developed a strong interest in how systems work behind the scenes — from database design to API architecture and application logic. Today, I focus on building backend services that are efficient, secure, and production-ready.
 
 ---
 
-##  About Me
+## About Me
 
-<p>
-I’m passionate about <strong>continuous learning</strong>, <strong>problem-solving</strong>, and building technology that <strong>connects people</strong> and <strong>creates meaningful impact</strong>.
-</p>
+* ALX Backend Web Development Graduate
+* ALX Professional Foundations Graduate
+* Freelancer Academy (Graduation Pending)
+* Currently completing **AI Career Essentials**
+* Actively improving backend architecture, API design, and system scalability
+* Interested in building technology that connects communities and enables collaboration across Africa
 
-<p>
-My transition from a <strong>Sales Executive</strong> to <strong>Software Engineering</strong> was driven by deep curiosity about how systems work and a strong desire to challenge myself and grow beyond my comfort zone.
-</p>
-
-<p>
-I’m inspired by the power of technology to <strong>foster regional integration</strong> — enabling communities across Africa and beyond to collaborate, share opportunities, and innovate together.
-</p>
-
-<p>
-As I advance my journey as a <strong>Full-Stack Software Developer</strong> — beginning with <strong>Back-End Development</strong> and later expanding into <strong>Front-End</strong> — I’m motivated by a vision to create <strong>scalable, efficient, and inclusive systems</strong> that truly make a difference.
-</p>
+I am currently seeking **internship opportunities** where I can contribute, learn from experienced engineers, and grow into a production-level backend developer.
 
 ---
 
-##  My Vision
+## Technical Skills
 
-> "Use technology as a bridge for connection, collaboration, and growth — building digital solutions that promote regional integration and empower communities across Africa and beyond."
+### Backend Development
 
----
+* Python
+* Django
+* Django REST Framework (DRF)
+* RESTful API Design
+* Authentication & Authorization
 
-##  My Development Roadmap
+### Databases
 
-### **Phase 1: Back-End Foundations**
-**Focus:** APIs, databases, authentication, and server logic.
+* MySQL
+* PostgreSQL
+* Database Design & ORM Modeling
 
-**Projects:**
-- 🧮 CLI Tool — Expense or To-Do Tracker
-- 📚 RESTful API — Books or Student Management API
-- 🔐 User Authentication System — Login/Signup with JWT and Password Hashing
-- 🗂️ Database App — Blog or Notes App using SQL and ORM
+### Developer Tools
 
----
+* Git & GitHub
+* macOS Terminal (Unix Command Line)
+* Postman & Curl (API Testing)
+* VS Code
 
-### ** Phase 2: Intermediate Back-End + API Integrations**
-**Focus:** Building systems that interact with external services.
+### Currently Learning
 
-**Projects:**
-- 🛒 E-Commerce Back-End — Users, Orders, Inventory, Payments
-- 🤖 Automation API — Connects with services like Gmail or Slack
-- 📊 Data Dashboard — Back-End for Analytics or Reporting
-
----
-
-### ** Phase 3: Front-End Introduction**
-**Focus:** Consuming APIs and building user interfaces.
-
-**Projects:**
-- 🌐 Frontend for Your API — React, Vue, or Plain JS
-- 🧭 Interactive App — To-Do or Dashboard with CRUD Operations
-- 🔐 Auth UI — Front-End Login/Register linked to your API
+* System Design Fundamentals
+* Docker & Deployment Workflows
+* AI-assisted Development Practices
 
 ---
 
-### ** Phase 4: Full-Stack Applications**
-**Focus:** Complete, end-to-end systems.
+## Featured Projects
 
-**Projects:**
-- 🛍️ Full-Stack E-Commerce App — Products, Carts, Payments, Admin Dashboard
-- 👥 Community or Social Platform — Profiles, Posts, Comments
-- 🌍 Regional Integration Project — Connecting communities or businesses across Africa through scalable, inclusive tech solutions
+### Authentication API
 
----
+Backend system implementing secure user authentication using Django REST Framework.
 
-## Tech Stack (Learning Path)
+* User registration & login
+* Token-based authentication
+* Secure password handling
 
-**Back-End:** Python | Django | Flask | Node.js | Express.js | SQL | PostgreSQL | RESTful APIs  
-**Front-End:** HTML | CSS | JavaScript | React (Coming Soon)  
-**Tools:** Git | GitHub | VS Code | Linux | Postman | Docker (Upcoming)
+### RESTful API Project
 
----
+Designed and implemented a scalable API with CRUD operations.
 
-## Let’s Connect!
+* Clean endpoint structure
+* Database relationships
+* API testing with Postman
 
-<div align="center">
-  <a href="https://github.com/EdwinKapule" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/edwin-kapule" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:edwinkapule@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+###  Database-Driven Application
+
+Backend application demonstrating relational database modeling and ORM usage.
+
+* PostgreSQL integration
+* Data validation & query optimization
+
+*(More projects available in my other repositories)*
 
 ---
 
-<div align="center">
-  <h3>⭐ "Learning. Building. Growing — One Commit at a Time."</h3>
-</div>
+## What I’m Currently Working On
+
+* Improving API performance and backend architecture patterns
+* Writing cleaner, maintainable production-style code
+* Preparing for real-world engineering collaboration and mentorship
+
+---
+
+##  Vision
+
+> Use technology as a bridge for connection, collaboration, and growth — building scalable digital solutions that empower communities across Africa and beyond.
+
+---
+
+## Let’s Connect
+
+* GitHub: https://github.com/greatkapule
+* LinkedIn: https://www.linkedin.com/in/edwinkapule/
+
+I’m always open to collaboration, mentorship, and opportunities to grow as a backend engineer.
